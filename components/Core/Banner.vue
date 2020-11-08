@@ -23,7 +23,7 @@
             class="pr-xl-12"
             style="bottom: 0; position: absolute; right: 0; padding-bottom: 0"
           >
-            <v-img src="/team.webp" style="min-height: 10rem" />
+            <v-img src="/gemme.png" style="min-height: 10rem" />
           </v-col>
         </v-row>
       </v-container>

@@ -15,12 +15,7 @@
           {{ mdiMenu }}
         </v-icon>
       </v-app-bar-nav-icon>
-      <v-img
-        alt="A2SV LOGO"
-        class="mx-5 logo"
-        contain
-        :src="getLogo"
-      />
+
       <v-tabs
         v-if="$vuetify.breakpoint.mdAndUp"
         centered
