@@ -3,18 +3,18 @@
     <v-parallax src="/" class="main-gradient" height="450" jumbotron>
       <v-container>
         <v-row>
-          <v-col md="4" xl="5">
+          <v-col md="6" xl="5">
             <h1
               class="motto text-center white--text"
               style="
-                font-size: 58px !important;
+                font-size: 48px !important;
                 line-height: 68px !important;
               "
             >
-              A Passionate Team
+              Software Engineer
             </h1>
             <p class="text-center mt-5" style="font-size: 20px">
-              Diversity is at the core of our Vision, Mission, and Values.
+              Gemmechu Mohammed
             </p>
           </v-col>
           <v-col
