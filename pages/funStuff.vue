@@ -38,7 +38,7 @@
                   </v-card-text>
                 </v-col>
                 <v-col cols="12" px-4 >
-                  <v-img height="150" :src="post.image" />
+                  <iframe width="100%" height="400px" src="https://www.youtube.com/embed/zjcVPZCG4sM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </v-col>
 
 
