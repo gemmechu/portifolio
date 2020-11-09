@@ -2,14 +2,14 @@
   <div>
     <banner
       img-width="18rem"
-      title="FUN Stuff"
+      title="Acivities"
       description=""
       img="./news.svg"
     />
 
     <v-container class="my-15">
       <h2 class="display-1">
-
+        Latest Updates
       </h2>
       <v-divider class="mt-2" />
       <template v-for="post in posts">
@@ -69,13 +69,37 @@ export default {
         {
           id: 1,
           video: 1,
-          link:"https://youtu.be/zpQmVqxHge8",
-          title: "Mini Ethiopia - Diversity",
+          link:"aura.engin.umich.edu/home",
+          title: "AURA Final presentation - Umich",
+          date: "Oct 2, 2020",
           image:"",
-          src: "https://www.youtube.com/embed/zpQmVqxHge8",
+          src: "https://www.youtube.com/embed/0EUMW2yIA_0",
           preview:
-            "Diversity makes a Nation Stronger !!!"
-        }
+            "AURA program is African Undergraduate Research Adventure, it is formed by Umich and AAiT partnership for 4th year AAiT students explore the research world at university of Michigan."
+        },
+
+        {
+          id: 2,
+          video: 0,
+          link:"https://twitter.com/TTAfroFM/status/1255544263338872834",
+          title: "AfroFm 105.3 <> Eskalate interview",
+          date: "April 15, 2020",
+          image:"https://pbs.twimg.com/media/EWyW0tmX0AAZaIP?format=jpg&name=small",
+          src: "",
+          preview:
+            "In response to COVID-19 pandemic Eskalate responded  by building symptom tracker the application can be found on http://tracksym.app/"
+        },
+        {
+          id: 3,
+          video: 0,
+          link:"eskalate.io",
+          title: "Co-founder at Eskalate",
+          date: "March, 2020",
+          image:"https://res.cloudinary.com/eskalate/image/upload/v1596886461/gallery/IMG_20200306_150536_etyrgf.jpg",
+          src: "",
+          preview:
+            "Eskalate's mission is to be a digital bridge between underdeveloped and developed world. We aim to maximize social impact, not profit"
+        },
 
       ]
     };

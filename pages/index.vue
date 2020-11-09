@@ -8,23 +8,19 @@
       @toggle-drawer="drawer = !drawer"
     />
     <v-container class="grey lighten-5">
-      <div class="mt-6">
+      <div class="mt-6 col-md-8">
         <h2 class="motto">Summary</h2>
 
       <v-row>
-        <v-col class="col-md-8">
-          I am a 4th-year Software Engineering student. I am deeply interested in Software development and the
-          Artificial intelligence area of the field. For the past 2 years, I have been interning for Software solution
-          companies where I sharpen my skills and laid a strong foundation on Web development and Machine learning applications.
-          I am excited and eager to learn and explore more about AI, especially on Computer Vision. My interest other
-          than programming is making 3D animations, playing basketball, watching biography movies, and charity programs.
+        <v-col class="">
+          I am a 4th-year Software Engineering student. I am deeply interested in Software development and the Artificial intelligence area of the field. For the past 3 years, I work on Web and mobile Applications, 3D animation, Computer Vision projects with some of the most interesting people. I am excited and eager to learn and explore more about AI, especially on Computer Vision. As a hobby, I like to play basketball, watch biography movies, and charity programs.
         </v-col>
       </v-row>
       </div>
 
       <div class="mt-5 col-md-8">
         <h2 class="motto">Papers</h2>
-        <p>Coming soon in the Near future</p>
+        <p>Coming soon in the near future</p>
       </div>
 
       <div class="mt-5 col-md-8">
@@ -38,10 +34,12 @@
             >
               <div>
                 <div class="font-weight-normal">
-                  <strong>Research Assistant at Umich</strong>
+                  <strong>Research Assistant at University of Michigan</strong>
                 </div>
                 <div>The Lab focuses on Computer Vision, understanding the world in terms of Physical property and Functional property.
-                  I worked on Understanding scene using human as a ruler, by training a model of Depth estimation and Floor prediction</div>
+                  I worked on Understanding scene using human as a ruler, by training a model of Depth estimation and Floor prediction
+                </div>
+                <iframe class ="my-3" width="90%" height="310px" src="https://www.youtube.com/embed/0EUMW2yIA_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div>
             </v-timeline-item>
 
@@ -50,11 +48,15 @@
             >
               <div>
                 <div class="font-weight-normal">
-                  <strong>Research Assistant at Umich</strong>
+                  <strong>Co-founder at Eskalate</strong>
                 </div>
-                <div>The Lab focuses on Computer Vision, understanding the world in terms of Physical property and Functional property.
-                  I worked on Understanding scene using human as a ruler, by training a model of Depth estimation and Floor prediction</div>
+                <div>Is a company based in US founded by group of people from Ethiopia, Turkey and US.
+                  We focus on building a bridge between developing countries and
+                  Silicon Valley and Developing software Applications. I work as web developer and in business team.
+                  <v-btn color="primary" text href="eskalate.io"> Link</v-btn>
+                  </div>
               </div>
+
             </v-timeline-item>
 
             <v-timeline-item
@@ -62,10 +64,13 @@
             >
               <div>
                 <div class="font-weight-normal">
-                  <strong>Research Assistant at Umich</strong>
+                  <strong>ITSC-INSPIRE President</strong>
                 </div>
-                <div>The Lab focuses on Computer Vision, understanding the world in terms of Physical property and Functional property.
-                  I worked on Understanding scene using human as a ruler, by training a model of Depth estimation and Floor prediction</div>
+                <div>ITSC-INSPIRE is the biggest student organization within AAIT, we organize hackathon, seminars and tutorials
+                  in addition we sponsored 1st Ai in Ethiopia conference. Our core mission is experience sharing and Helping each other.
+
+                <v-img src="twitter_ceo.jpg" width="90%" class="my-3"></v-img>
+                </div>
               </div>
             </v-timeline-item>
           </v-timeline>

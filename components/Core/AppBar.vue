@@ -72,8 +72,8 @@ export default {
         },
         {
           icon: mdiNewspaper,
-          title: "News",
-          to: "/news"
+          title: "Activities",
+          to: "/activities"
         },
         {
           icon: mdiCalendar,

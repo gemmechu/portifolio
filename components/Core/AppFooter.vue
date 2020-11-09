@@ -3,7 +3,9 @@
     <v-card flat tile class="white align-center">
       <v-card-text style="width: 100vw">
         <v-container>
-
+          <div class="float-left">
+            <p style="font-size: larger;" ><b>@2020 </b></p>
+          </div>
           <div class="float-right">
               <p style="font-size: large;" ><b>Contact </b></p>
               <p>gemmechumohammed@gmail.com</p>
