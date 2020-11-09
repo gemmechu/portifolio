@@ -11,10 +11,10 @@
                 line-height: 68px !important;
               "
             >
-              Software Engineer
+              Gemmechu Mohammed
             </h1>
             <p class="text-center mt-5" style="font-size: 20px">
-              Gemmechu Mohammed
+              CSE student at Addis Ababa University
             </p>
           </v-col>
           <v-col

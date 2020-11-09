@@ -1,11 +1,16 @@
 <template>
   <v-footer padless>
-    <v-card flat tile class="white text-center">
+    <v-card flat tile class="white align-center">
       <v-card-text style="width: 100vw">
         <v-container>
-         <p class="blackish footer-texts">
-                © Copyright 2020 A2SV NPO. All rights reserved.
-          </p>
+
+          <div class="float-right">
+              <p style="font-size: large;" ><b>Contact </b></p>
+              <p>gemmechumohammed@gmail.com</p>
+              <p>ghassena@umich.edu</p>
+              <p>+251938623889</p>
+          </div>
+
         </v-container>
       </v-card-text>
     </v-card>

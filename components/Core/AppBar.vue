@@ -28,9 +28,7 @@
 
       <v-spacer />
 
-      <v-btn :color="isColored ? 'white' : 'primary'" depressed outlined to="/support">
-        Support Us
-      </v-btn>
+
     </v-app-bar>
     <v-navigation-drawer
       v-if="$vuetify.breakpoint.smAndDown"
@@ -73,24 +71,14 @@ export default {
           to: "/"
         },
         {
-          icon: mdiInformation,
-          title: "About Us",
-          to: "/about"
-        },
-        {
-          icon: mdiGroup,
-          title: "Team",
-          to: "/team"
-        },
-        {
-          icon: mdiCalendar,
-          title: "Events",
-          to: "/events"
-        },
-        {
           icon: mdiNewspaper,
           title: "News",
           to: "/news"
+        },
+        {
+          icon: mdiCalendar,
+          title: "FunStuff",
+          to: "/funStuff"
         }
       ]
     };
