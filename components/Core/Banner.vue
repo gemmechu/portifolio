@@ -14,7 +14,7 @@
               Gemmechu Mohammed
             </h1>
             <p class="text-center mt-5" style="font-size: 20px">
-              CSE student at Addis Ababa University
+              SE student at Addis Ababa University
             </p>
           </v-col>
           <v-col

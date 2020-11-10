@@ -24,7 +24,7 @@
       </div>
 
       <div class="mt-5 col-md-8">
-        <h2 class="motto">Expiriances</h2>
+        <h2 class="motto">Experience</h2>
         <v-timeline
             align-top
             dense
