@@ -13,7 +13,7 @@
 
       <v-row>
         <v-col class="">
-          I am a 4th-year Software Engineering student. I am deeply interested in Software development and the Artificial intelligence area of the field. For the past 3 years, I work on Web and mobile Applications, 3D animation, Computer Vision projects with some of the most interesting people. I am excited and eager to learn and explore more about AI, especially on Computer Vision. As a hobby, I like to play basketball, watch biography movies, and charity programs.
+          I am a 4th-year Software Engineering student. I am deeply interested in Software development and the Artificial intelligence area of the field. For the past 3 years, I have worked on Web and mobile Applications, 3D animation, Computer Vision projects with some of the most interesting people. I am excited and eager to learn and explore more about AI, especially on Computer Vision. As a hobby, I like to play basketball, watch biography movies, and charity programs.
         </v-col>
       </v-row>
       </div>
